@@ -29,7 +29,7 @@ A simple Bash script (`server-stats.sh`) to analyze basic server performance met
    ```bash
    ./server-stats.sh
 
-## project page
+##Project URL
    https://github.com/phemy0/Server-Performance-Stats
 
    
