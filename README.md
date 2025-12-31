@@ -24,13 +24,17 @@ A simple Bash script (`server-stats.sh`) to analyze basic server performance met
 2. execute:
    ```bash
    chmod +x server-stats.sh
+
+## Project URL
+3. https://github.com/phemy0/Server-Performance-Stats
+
+
    
 ## run the script
    ```bash
    ./server-stats.sh
 
-##Project URL
-   https://github.com/phemy0/Server-Performance-Stats
+
 
    
    
