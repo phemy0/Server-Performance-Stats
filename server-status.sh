@@ -3,7 +3,7 @@
 echo -e
 lsb_release -a
 
-# Uptime
+# Uptime!!
 
 uptime -p
 
